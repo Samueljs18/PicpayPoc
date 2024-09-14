@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\biblioteca\\global\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:biblioteca\\global\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\biblioteca\\global\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:biblioteca\\global\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\mainproject\\features\\investimento.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:mainproject\\features\\investimento.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\biblioteca\\global\\geradorderelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:biblioteca\\global\\geradorderelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\biblioteca\\pageobjects\\investimentospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:biblioteca\\pageobjects\\investimentospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\mainproject\\stepdefinitions\\investimentostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:mainproject\\stepdefinitions\\investimentostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\biblioteca\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:biblioteca\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|c:\\users\\samue\\source\\repos\\picpaypoc\\picpaypoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0257E6BE-6162-4DD4-92CB-B4EF083B3182}|PicpayPoc.csproj|solutionrelative:picpaypoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Investimento.feature",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\MainProject\\Features\\Investimento.feature",
+              "RelativeDocumentMoniker": "MainProject\\Features\\Investimento.feature",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\MainProject\\Features\\Investimento.feature",
+              "RelativeToolTip": "MainProject\\Features\\Investimento.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-23T19:12:33.665Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvestimentoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\MainProject\\StepDefinitions\\InvestimentoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "MainProject\\StepDefinitions\\InvestimentoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\MainProject\\StepDefinitions\\InvestimentoStepDefinitions.cs",
+              "RelativeToolTip": "MainProject\\StepDefinitions\\InvestimentoStepDefinitions.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:41:22.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvestimentosPage.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\PageObjects\\InvestimentosPage.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\PageObjects\\InvestimentosPage.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\PageObjects\\InvestimentosPage.cs",
+              "RelativeToolTip": "Biblioteca\\PageObjects\\InvestimentosPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:40:34.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeradorDeRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\GeradorDeRelatorio.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Global\\GeradorDeRelatorio.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\GeradorDeRelatorio.cs",
+              "RelativeToolTip": "Biblioteca\\Global\\GeradorDeRelatorio.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:20:12.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\BasePage.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Global\\BasePage.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\BasePage.cs",
+              "RelativeToolTip": "Biblioteca\\Global\\BasePage.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAApwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:42:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Begin.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\Begin.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Global\\Begin.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\Global\\Begin.cs",
+              "RelativeToolTip": "Biblioteca\\Global\\Begin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:15:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\samue\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:11:36.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\Biblioteca\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "Biblioteca\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:27:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PicpayPoc.csproj",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\PicpayPoc.csproj",
+              "RelativeDocumentMoniker": "PicpayPoc.csproj",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\PicpayPoc\\PicpayPoc.csproj",
+              "RelativeToolTip": "PicpayPoc.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T22:30:53.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
